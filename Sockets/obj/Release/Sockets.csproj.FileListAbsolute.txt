@@ -1,8 +1,0 @@
-C:\Users\mikob\Downloads\Homework\Homework\Sockets\bin\Release\Sockets.exe.config
-C:\Users\mikob\Downloads\Homework\Homework\Sockets\bin\Release\Sockets.exe
-C:\Users\mikob\Downloads\Homework\Homework\Sockets\bin\Release\Sockets.pdb
-C:\Users\mikob\Downloads\Homework\Homework\Sockets\obj\Release\Sockets.csproj.AssemblyReference.cache
-C:\Users\mikob\Downloads\Homework\Homework\Sockets\obj\Release\Sockets.csproj.SuggestedBindingRedirects.cache
-C:\Users\mikob\Downloads\Homework\Homework\Sockets\obj\Release\Sockets.csproj.CoreCompileInputs.cache
-C:\Users\mikob\Downloads\Homework\Homework\Sockets\obj\Release\Sockets.exe
-C:\Users\mikob\Downloads\Homework\Homework\Sockets\obj\Release\Sockets.pdb

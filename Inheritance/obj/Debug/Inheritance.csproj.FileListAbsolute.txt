@@ -1,8 +1,0 @@
-C:\Users\mikob\Downloads\Homework\Homework\Inheritance\bin\Debug\Inheritance.exe.config
-C:\Users\mikob\Downloads\Homework\Homework\Inheritance\bin\Debug\Inheritance.exe
-C:\Users\mikob\Downloads\Homework\Homework\Inheritance\bin\Debug\Inheritance.pdb
-C:\Users\mikob\Downloads\Homework\Homework\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
-C:\Users\mikob\Downloads\Homework\Homework\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
-C:\Users\mikob\Downloads\Homework\Homework\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
-C:\Users\mikob\Downloads\Homework\Homework\Inheritance\obj\Debug\Inheritance.exe
-C:\Users\mikob\Downloads\Homework\Homework\Inheritance\obj\Debug\Inheritance.pdb
