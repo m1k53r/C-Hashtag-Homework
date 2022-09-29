@@ -1,0 +1,8 @@
+C:\Users\mikob\Downloads\Homework\Homework\Multithreading\bin\Release\Multithreading.exe.config
+C:\Users\mikob\Downloads\Homework\Homework\Multithreading\bin\Release\Multithreading.exe
+C:\Users\mikob\Downloads\Homework\Homework\Multithreading\bin\Release\Multithreading.pdb
+C:\Users\mikob\Downloads\Homework\Homework\Multithreading\obj\Release\Multithreading.csproj.AssemblyReference.cache
+C:\Users\mikob\Downloads\Homework\Homework\Multithreading\obj\Release\Multithreading.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikob\Downloads\Homework\Homework\Multithreading\obj\Release\Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\mikob\Downloads\Homework\Homework\Multithreading\obj\Release\Multithreading.exe
+C:\Users\mikob\Downloads\Homework\Homework\Multithreading\obj\Release\Multithreading.pdb

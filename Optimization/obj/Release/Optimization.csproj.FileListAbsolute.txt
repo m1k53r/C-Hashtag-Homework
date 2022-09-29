@@ -1,0 +1,8 @@
+C:\Users\mikob\Downloads\Homework\Homework\Optimization\bin\Release\Optimization.exe.config
+C:\Users\mikob\Downloads\Homework\Homework\Optimization\bin\Release\Optimization.exe
+C:\Users\mikob\Downloads\Homework\Homework\Optimization\bin\Release\Optimization.pdb
+C:\Users\mikob\Downloads\Homework\Homework\Optimization\obj\Release\Optimization.csproj.AssemblyReference.cache
+C:\Users\mikob\Downloads\Homework\Homework\Optimization\obj\Release\Optimization.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikob\Downloads\Homework\Homework\Optimization\obj\Release\Optimization.csproj.CoreCompileInputs.cache
+C:\Users\mikob\Downloads\Homework\Homework\Optimization\obj\Release\Optimization.exe
+C:\Users\mikob\Downloads\Homework\Homework\Optimization\obj\Release\Optimization.pdb

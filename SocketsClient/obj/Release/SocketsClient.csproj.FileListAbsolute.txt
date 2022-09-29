@@ -1,0 +1,8 @@
+C:\Users\mikob\Downloads\Homework\Homework\SocketsClient\bin\Release\SocketsClient.exe.config
+C:\Users\mikob\Downloads\Homework\Homework\SocketsClient\bin\Release\SocketsClient.exe
+C:\Users\mikob\Downloads\Homework\Homework\SocketsClient\bin\Release\SocketsClient.pdb
+C:\Users\mikob\Downloads\Homework\Homework\SocketsClient\obj\Release\SocketsClient.csproj.AssemblyReference.cache
+C:\Users\mikob\Downloads\Homework\Homework\SocketsClient\obj\Release\SocketsClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\mikob\Downloads\Homework\Homework\SocketsClient\obj\Release\SocketsClient.csproj.CoreCompileInputs.cache
+C:\Users\mikob\Downloads\Homework\Homework\SocketsClient\obj\Release\SocketsClient.exe
+C:\Users\mikob\Downloads\Homework\Homework\SocketsClient\obj\Release\SocketsClient.pdb
